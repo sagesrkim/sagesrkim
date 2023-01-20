@@ -14,4 +14,4 @@
 </p>
 
 <hr/>
-[blog](https://blog.naver.com/saltypicnic)
+[blog](http://blog.naver.com/saltypicnic)
