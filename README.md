@@ -1,10 +1,10 @@
 
 ## 👩🏻‍🌾  웹 사용성 개선에 관심이 많은 개발자 김새롬입니다 
  ✔️ Frontend Developer <br />
- ✔️ [blog 보러 가기 👀](https://blog.naver.com/saltypicnic, "go blog")
+ ✔️ I regularly write notes what I learned on [my blog. 👀](https://blog.naver.com/saltypicnic, "go blog")
 
 
-### 📌 요즘 집중하고 있는 기술 스택은
+### 📌 요즘 집중하고 있는 기술 스택은 | My skills 
 <!-- <img src="https://img.shields.io/badge/typescript-255dbb?style=for-the-badge&logo=firebase&logoColor=white"> -->
 <p> <img src="https://img.shields.io/badge/react-Aedffb?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/javascript-B17805?style=for-the-badge&logo=javascript&logoColor=black">
