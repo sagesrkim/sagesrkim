@@ -8,7 +8,7 @@
 <p> <img src="https://img.shields.io/badge/typescript-0288cb?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/react-Aedffb?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/javascript-E0b501?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/html5-F3863f?style=for-the-badge&logo=html5&logoColor=white"> 
+ <img src="https://img.shields.io/badge/html5-Ff8e46?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-0f1350?style=for-the-badge&logo=css3&logoColor=white"> 
    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
