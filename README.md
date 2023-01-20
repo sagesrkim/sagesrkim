@@ -4,7 +4,7 @@
  ✔️ Sungshin W. University </p>
 
 
-### 📌 최근 집중하고 있는 기술 스택은
+### 📌 집중하고 있는 기술 스택은
 <p> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -14,4 +14,10 @@
 
 <hr/>
 
-### 📝
+### 📝 블로그에 다음과 같은 글을 공유하고 있습니다
+<ul>
+ <li> 
+ <li> 
+ <li> 
+ <li> 
+</ul>
