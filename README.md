@@ -1,7 +1,7 @@
 
 ## 웹 사용성 개선에 관심이 많은 개발자 김새롬입니다 
 <p> ✔️ Frontend Developer <br />
- ✔️ [blog](https://blog.naver.com/saltypicnic) </p>
+ ✔️  </p>
 
 
 ### 📌 집중하고 있는 기술 스택은
@@ -14,3 +14,4 @@
 </p>
 
 <hr/>
+[blog](https://blog.naver.com/saltypicnic)
