@@ -1,3 +1,12 @@
 
-# Saerom Kim | 김새롬
+## 웹 사용성 개선에 관심이 많은 개발자 김새롬입니다 
+Frontend Developer
+Sungshin W. University
+
+#### 최근 집중하고 있는 기술 스택은
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+
 * * *
