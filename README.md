@@ -4,7 +4,7 @@
  ✔️ [blog 보러 가기 👀](https://blog.naver.com/saltypicnic, "go blog")
 
 
-### 📌 집중하고 있는 기술 스택은
+### 📌 요즘 집중하고 있는 기술 스택은
 <!-- <img src="https://img.shields.io/badge/typescript-255dbb?style=for-the-badge&logo=firebase&logoColor=white"> -->
 <p> <img src="https://img.shields.io/badge/react-Aedffb?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/javascript-Dca847?style=for-the-badge&logo=javascript&logoColor=black">
