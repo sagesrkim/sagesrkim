@@ -13,6 +13,7 @@
    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
-### ✏️ 블로그에  있습니다
+
+### ✏️ 블로그에 이런 글을 작성하고 있습니다
 * [ToDo 앱 회고- 보완점을 중심으로](https://blog.naver.com/saltypicnic/223001278273) <br />
 * [[DOM&EVENT] 이벤트 핸들러에 대해](https://blog.naver.com/saltypicnic/222982561723) 
