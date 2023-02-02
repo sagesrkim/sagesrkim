@@ -15,4 +15,7 @@
 </p>
 
 <hr/>
+### ✏️ 이렇게 공부하고 있습니다 
+* [ToDo앱 회고](https://blog.naver.com/saltypicnic/223001278273)
+* [DOM & EVENT 이벤트 핸들러에 대해](https://blog.naver.com/saltypicnic/222982561723)
 
