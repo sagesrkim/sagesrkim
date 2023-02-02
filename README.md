@@ -1,4 +1,3 @@
-
 ## 👩🏻‍🌾  웹 사용성 개선에 관심이 많은 개발자 김새롬입니다 
  ✔️ I'm studying to be a Web Frontend Developer 🇰🇷 <br />
  ✔️ I regularly write about what I learned on [my blog. 👀](https://blog.naver.com/saltypicnic)
@@ -13,9 +12,3 @@
   <img src="https://img.shields.io/badge/css-0f1350?style=for-the-badge&logo=css3&logoColor=white"> 
    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
-
-<hr/>
-### ✏️ 이렇게 공부하고 있습니다 
-* [ToDo앱 회고](https://blog.naver.com/saltypicnic/223001278273)
-* [DOM & EVENT 이벤트 핸들러에 대해](https://blog.naver.com/saltypicnic/222982561723)
-
