@@ -10,7 +10,6 @@
  <img src="https://img.shields.io/badge/javascript-Deba54?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/html5-D02a03?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-0f1350?style=for-the-badge&logo=css3&logoColor=white"> 
-   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
 
