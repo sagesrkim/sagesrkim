@@ -1,4 +1,4 @@
-## 👩🏻‍💻  웹 사용성 개선에  개발자 김새롬입니다 
+## 👩🏻‍💻  웹 사용성 개선에 몰두하는 개발자 김새롬입니다 
  ✔️ Web Frontend Developer 🇰🇷 <br />
  ✔️ I regularly write about what I learned on [my blog. 👀](https://velog.io/@sagesrkim)
 
