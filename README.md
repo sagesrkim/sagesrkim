@@ -14,6 +14,7 @@
 
 
 ### ✏️ 블로그에 이런 글을 작성하고 있습니다
+* [리액트 별점 기능 구현](https://velog.io/@sagesrkim/next.js-%EB%B3%84%EC%A0%90-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)
 * [비동기를 이해하는 방법 - Promise](https://velog.io/@sagesrkim/%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Promise-%EC%A0%95%EB%A6%AC)
 * [ToDo 앱 회고- 보완점을 중심으로](https://blog.naver.com/saltypicnic/223001278273) <br />
-* [[DOM&EVENT] 이벤트 핸들러에 대해](https://blog.naver.com/saltypicnic/222982561723) 
+
