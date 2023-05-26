@@ -15,6 +15,6 @@
 
 ### ✏️ 블로그에 이런 글을 작성하고 있습니다
 * [리액트 별점 기능 구현](https://velog.io/@sagesrkim/next.js-%EB%B3%84%EC%A0%90-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)
-* [비동기를 이해하는 방법 - Promise](https://velog.io/@sagesrkim/%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Promise-%EC%A0%95%EB%A6%AC)
+* [토큰 삭제 훅 리팩토링하기](https://velog.io/@sagesrkim/Next.js-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-w-spring-3-%ED%86%A0%ED%81%B0-%EC%82%AD%EC%A0%9C-%ED%9B%85-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0)
 * [ToDo 앱 회고- 보완점을 중심으로](https://blog.naver.com/saltypicnic/223001278273) <br />
 
