@@ -7,6 +7,7 @@
 ### 📌 요즘 집중하고 있는 기술 스택은 | skills 
 <p>
  <img src="https://img.shields.io/badge/typescript-255dbb?style=for-the-badge&logo=firebase&logoColor=white">
+ <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/react-Aedffb?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/javascript-Deba54?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/html5-D02a03?style=for-the-badge&logo=html5&logoColor=white"> 
