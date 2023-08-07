@@ -1,5 +1,5 @@
 ## 👩🏻‍💻  웹 사용자 경험 개선을 위해 몰입하는 개발자 김새롬입니다 
- ✔️ 꾸준함과 커뮤니케이션에 높은 가치를 두고 있습니다 <br />
+ ✔️ 꾸준함과 커뮤니케이션에 높은 가치를 두는 개발자입니다 <br />
  ✔️ Web Frontend Developer 🇰🇷 <br />
  ✔️ I regularly write about what I learned on [my blog. 👀](https://velog.io/@sagesrkim)
 
