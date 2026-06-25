@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Frontend Developer | Real-time & 3D Visualization with Next.js & Three.js | Focused on UX Optimization 🇰🇷 
+## 👩🏻‍💻 Frontend Developer | Real-time & 3D Visualization with Next.js & Three.js 🇰🇷 
 
 
 ### 📌 skills 
